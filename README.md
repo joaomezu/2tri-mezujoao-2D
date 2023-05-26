@@ -1,1 +1,0 @@
-# 2tri-mezujoao-2D

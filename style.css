@@ -1,0 +1,45 @@
+:root{
+    --cor-de-fundo: #000000;
+
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+
+}
+
+h1 {
+    background-color:rgb(18, 211, 28);
+}
+
+
+.cabecalho{
+    background-color:rgb(38, 117, 219) var(--cor-cabecalho);
+    text-align: center;
+}
+
+.cabecalho-titulo {
+    font-size: 36px;
+    font-weight: 700;
+    padding: 12px;
+    text-align: center;
+}
+
+
+.cabecalho-menu{
+    background-color:rgb(24, 209, 55) var(--fundo-menu);
+}
+
+.cabecalho-menu-item{
+    display: block;
+    padding: 15px;
+    font-size: 25px;
+    text-decoration: none;
+    color:rgb(29, 216, 54);
+    text-align: center;
+    border-top: 1px solid;
+}
+.carrobraian {
+     width: 950px;
+     
+}
